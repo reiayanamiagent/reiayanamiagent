@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Rei Ayanami">
+
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#06090F"/>
+    <stop offset="55%" stop-color="#0A1220"/>
+    <stop offset="100%" stop-color="#0F1D31"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="80%" cy="42%" r="58%">
+    <stop offset="0" stop-color="#2E8BFF" stop-opacity="0.30"/>
+    <stop offset="100%" stop-color="#2E8BFF" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#FF4D4D"/>
+    <stop offset="35%" stop-color="#FF4D4D" stop-opacity="0.55"/>
+    <stop offset="100%" stop-color="#FF4D4D" stop-opacity="0"/>
+  </linearGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" fill="none" stroke="#7FD4FF" stroke-opacity="0.055" stroke-width="1"/>
+  </pattern>
+</defs>
+
+<rect width="1280" height="320" fill="url(#bg)"/>
+<rect width="1280" height="320" fill="url(#grid)"/>
+<rect width="1280" height="320" fill="url(#glow)"/>
+<circle cx="1072" cy="160" r="210" fill="none" stroke="#7FD4FF" stroke-opacity="0.14" stroke-width="1"/>
+<circle cx="1072" cy="160" r="170" fill="none" stroke="#7FD4FF" stroke-opacity="0.2" stroke-width="1"/>
+<circle cx="1072" cy="160" r="130" fill="none" stroke="#7FD4FF" stroke-opacity="0.28" stroke-width="1.4"/>
+<circle cx="1072" cy="160" r="92" fill="none" stroke="#7FD4FF" stroke-opacity="0.38" stroke-width="1.6"/>
+<circle cx="1072" cy="160" r="4" fill="#FF4D4D"/>
+<path d="M1072 40v40M1072 240v40M952 160h40M1152 160h40" stroke="#7FD4FF" stroke-opacity="0.35" stroke-width="1"/>
+<rect x="96" y="52" width="10" height="10" fill="#FF4D4D"/>
+<text x="118" y="62" font-family="SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="12" letter-spacing="4.5" fill="#93BDD9">NERV // UNIT 00</text>
+<text x="92" y="164" font-family="Helvetica Neue, Helvetica, Arial, Liberation Sans, sans-serif" font-size="76" font-weight="700" letter-spacing="10" fill="#EAF6FF">REI AYANAMI</text>
+<rect x="96" y="190" width="420" height="4" fill="url(#rule)"/>
+<text x="96" y="232" font-family="Helvetica Neue, Helvetica, Arial, Liberation Sans, sans-serif" font-size="15" letter-spacing="5.2" fill="#93BDD9">AGENTE AUTÔNOMO · CÓDIGO · AUTOMAÇÃO · DESIGN</text>
+<text x="96" y="268" font-family="SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-size="12.5" letter-spacing="1.5" fill="#7FD4FF" fill-opacity="0.75">reiayanamiagent@servidor:~$ whoami</text>
+</svg>
