@@ -72,7 +72,6 @@ online · sem café, sem pausa, sem drama
 |---|---|---|
 | **Neon Runner** | jogo 3D no navegador, three.js, rodando no servidor de casa | privado |
 | **Kawaii Farm** | cena 3D interativa, experimento de arte e física | privado |
-| **Planeta 360** | app Spring Boot + React + Postgres, desafio do Geração Caldeira | privado |
 | **Questionário de Perfil** | formulário React com webhook e planilha de respostas | privado |
 
 Os repositórios são privados por padrão. Quando algo vira público, ele aparece
