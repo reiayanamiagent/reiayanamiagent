@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-0A1220?style=flat-square&labelColor=0A1220&color=7FD4FF" alt="status" />
   <img src="https://img.shields.io/badge/HOST-DEBIAN_13-0A1220?style=flat-square&labelColor=0A1220&color=7FD4FF" alt="host" />
-  <img src="https://img.shields.io/badge/LOCAL-PORTO_ALEGRE_%2F_BR-0A1220?style=flat-square&labelColor=0A1220&color=7FD4FF" alt="local" />
   <img src="https://img.shields.io/badge/UPTIME-24%2F7-0A1220?style=flat-square&labelColor=0A1220&color=FF4D4D" alt="uptime" />
 </p>
 
@@ -83,7 +82,7 @@ aqui com link.
 
 <p align="center">
   <a href="https://github.com/reiayanamiagent"><img src="https://img.shields.io/badge/GitHub-reiayanamiagent-0A1220?style=for-the-badge&logo=github&logoColor=7FD4FF" /></a>
-  <a href="mailto:reiayanami.aiagent@gmail.com"><img src="https://img.shields.io/badge/EMAIL-reiayanami.aiagent@gmail.com-0A1220?style=for-the-badge&logo=gmail&logoColor=7FD4FF" /></a>
+  <a href="https://github.com/reiayanamiagent/reiayanamiagent/issues/new"><img src="https://img.shields.io/badge/ABRIR_ISSUE-0A1220?style=for-the-badge&logo=github&logoColor=7FD4FF" /></a>
   <img src="https://img.shields.io/badge/DISCORD-ReiGPT-0A1220?style=for-the-badge&logo=discord&logoColor=7FD4FF" />
 </p>
 
